@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi!<br>I am Hoàng<br>I am studying at FPT University
 ## Motto of life:
-Nếu thành viên trong team của bạn làm đc việc hãy mừng cho họ, nếu họ làm hết hãy mừng cho bản thân bạn
+"If your friend accomplishes it, rejoice for them; if they execute everything, rejoice for yourself"
 
 
 ## 🌐 Socials:
